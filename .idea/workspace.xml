@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e775ac6-21fb-403c-900c-56196b87018d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/file-changes/last-build.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/NoPolymorphismStartPoint.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/NoPolymorphismStartPoint_main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/NoPolymorphismStartPoint_test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Desktop.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/IConnect.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Network.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Printer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/ComputerTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/NetworkTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/PrinterTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Desktop.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/IConnect.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Network.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ComputerTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/NetworkTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
-    </list>
+    <list default="true" id="1e775ac6-21fb-403c-900c-56196b87018d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
