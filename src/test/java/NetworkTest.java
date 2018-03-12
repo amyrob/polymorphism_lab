@@ -7,11 +7,13 @@ public class NetworkTest {
 
     Network network;
     Desktop desktop;
+    InternetRadio internetRadio;
 
     @Before
     public void before() {
-        network = new Network("CodeClan");
+        network = new Network("CodeClan", 5);
         desktop = new Desktop("Keith's Desktop", "Apple", "Macbook Pro");
+        internetRadio = new InternetRadio();
     }
 
     @Test
@@ -36,4 +38,26 @@ public class NetworkTest {
         network.disconnectAll();
         assertEquals(0, network.deviceCount());
     }
+
+    @Test
+    public void hasAllSpotsWhenEmpty(){
+        assertEquals(5, this.network.freeSpots());
+    }
+
+    @Test
+    public void canGetFreeSpots(){
+        this.network.connect(internetRadio);
+        assertEquals(4, this.network.freeSpots());
+    }
+
+    @Test
+    public void cannotExceedCapacity(){
+        for (int i = 0; i< 6; i++) {
+            this.network.connect(internetRadio);
+
+        }
+        assertEquals(0, this.network.freeSpots());
+    }
+
+
 }
